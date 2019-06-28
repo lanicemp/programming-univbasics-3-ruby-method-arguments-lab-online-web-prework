@@ -12,5 +12,5 @@ end
 #introduction_with_language_optional takes in two arguments, a name and a language, and language defaults to Ruby
 def introduction_with_language_optional (name = "Edwin", language ="Edwin" )
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
-  introduction_with_language_optional(" ", "Ruby")
+
 end
